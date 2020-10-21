@@ -12,7 +12,7 @@ library(tidyverse)
 library(rio)
 library(knitr)
 library(DT)
-
+library(Hmisc)
 
 ```
 
@@ -28,7 +28,7 @@ chickwts %>%
   
 
 ```
-We can go **through** the plots to have a better understanding 
+We can  **Check** the plots to have a better understanding 
 
 
 
