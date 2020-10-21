@@ -5,4 +5,4 @@
 
 #3- "R-basics" is a file that we started week 1
 
-#4- "Diamonds" file
+#4- "Diamonds" files
