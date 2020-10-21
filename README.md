@@ -1,7 +1,8 @@
-# The repo hold three statistical observations 
+# This repo has three files:
+#1- "Fahad-Analysis-W2.R" is an analysis of an Insurance Company, I #got the data from Kaggle and did some EDA on it.
 
-1- "agg analysis.rmd" is an analysis of the relation of the response behavior of the insurer with the insurance agreggator 
+#2- "chickenwts-v1.Rmd" Chicken weghts which was an exercise from #Mr.Rick
 
-2- "military magazine.rmd" & "Military.R are observations for Global fire power 
+#3- "R-basics" is a file that we started week 1
 
-3- "chickenwts assignment.rmd" is the assignment we worked on 10 days ago, i just knew today that it is mandatory to be pushed to the repo. I still need to fix few areas in it, i promise ti fix during weekend.  
+#4- "Diamonds" file
