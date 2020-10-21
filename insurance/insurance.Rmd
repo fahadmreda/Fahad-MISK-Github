@@ -1,0 +1,20 @@
+---
+title: "An analysis of insurance data"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## Introduction
+
+What is the data, where did it come from? what are the main research quesitons of this data set?
+
+What is the inrance charge given a particular trait? How much does each trait contribute to the insurece charge?
+
+## Section 2
+
+## Section 3
+
+## Section 4
